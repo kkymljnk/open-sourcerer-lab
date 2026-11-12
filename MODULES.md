@@ -42,3 +42,4 @@
 - System Pair Integration Module 44 (Gold Tier Pursuit)
 - System Pair Integration Module 45 (Gold Tier Pursuit)
 - System Pair Integration Module 46 (Gold Tier Pursuit)
+- System Pair Integration Module 47 (Gold Tier Pursuit)
