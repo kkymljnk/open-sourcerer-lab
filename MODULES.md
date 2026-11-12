@@ -36,3 +36,4 @@
 - System Pair Integration Module 38 (Gold Tier Pursuit)
 - System Pair Integration Module 39 (Gold Tier Pursuit)
 - System Pair Integration Module 40 (Gold Tier Pursuit)
+- System Pair Integration Module 41 (Gold Tier Pursuit)
