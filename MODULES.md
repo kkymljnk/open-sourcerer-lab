@@ -22,3 +22,4 @@
 - System Pair Integration Module 24 (Gold Tier Pursuit)
 - System Pair Integration Module 25 (Gold Tier Pursuit)
 - System Pair Integration Module 26 (Gold Tier Pursuit)
+- System Pair Integration Module 27 (Gold Tier Pursuit)
