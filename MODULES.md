@@ -1,2 +1,3 @@
 - System Pair Integration Module 3 (Gold Tier Pursuit)
 - System Pair Integration Module 4 (Gold Tier Pursuit)
+- System Pair Integration Module 5 (Gold Tier Pursuit)
